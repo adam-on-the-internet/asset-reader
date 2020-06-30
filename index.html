@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Asset Library</title>
+  </head>
+  <body onload="loadLibrary()">
+    <div id="header">
+      <h1>
+        Asset Library
+      </h1>
+      <div id="notes"></div>
+      <hr />
+    </div>
+    <div id="controls">
+      <span>Filters:</span>
+      <button onclick="showAll()">- show all -</button>
+    </div>
+    <div id="loading">
+      <p>
+        Loading...
+      </p>
+      <hr />
+    </div>
+    <div id="gallery"></div>
+
+    <script type="text/javascript" src="script/library-reader.js"></script>
+  </body>
+</html>
