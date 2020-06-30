@@ -1,4 +1,4 @@
-const baseUrl = "https://adam-on-the-internet.github.io/asset-library";
+const baseUrl = "https://adam-on-the-internet.github.io/asset-reader";
 const assetUrl = "https://blissful-newton-edf9e2.netlify.app";
 let assetsOnDisplay = [];
 let fullAssetList = [];
