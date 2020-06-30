@@ -5,12 +5,7 @@ let fullAssetList = [];
 
 const loadLibrary = async () => {
     const catalogURL = `${baseUrl}/catalog.json`;
-    const response = await fetch(catalogURL, {
-        // method: 'GET', // *GET, POST, PUT, DELETE, etc.
-        mode: 'no-cors', // no-cors, *cors, same-origin
-
-    });
-    console.log(response);
+    const response = await fetch(catalogURL);
     fullAssetList = await response.json();
     afterLoad();
 }
@@ -56,9 +51,13 @@ function setControls() {
         });
     })
 
-    allTags.sort(function(a, b){
-        if(a < b) { return -1; }
-        if(a > b) { return 1; }
+    allTags.sort(function (a, b) {
+        if (a < b) {
+            return -1;
+        }
+        if (a > b) {
+            return 1;
+        }
         return 0;
     })
 
