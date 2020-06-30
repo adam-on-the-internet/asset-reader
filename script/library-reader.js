@@ -1,10 +1,16 @@
 const baseUrl = "https://adam-on-the-internet.github.io/asset-library";
+const assetUrl = "https://blissful-newton-edf9e2.netlify.app";
 let assetsOnDisplay = [];
 let fullAssetList = [];
 
 const loadLibrary = async () => {
     const catalogURL = `${baseUrl}/catalog.json`;
-    const response = await fetch(catalogURL);
+    const response = await fetch(catalogURL, {
+        // method: 'GET', // *GET, POST, PUT, DELETE, etc.
+        mode: 'no-cors', // no-cors, *cors, same-origin
+
+    });
+    console.log(response);
     fullAssetList = await response.json();
     afterLoad();
 }
@@ -90,7 +96,7 @@ function buildAssetContent(asset, fullPath, commentContent, tagContent) {
 function addAsset(asset) {
     const tagContent = getAssetTagContent(asset);
     const commentContent = getCommentContent(asset);
-    const fullPath = `${baseUrl}/assets${asset.src}`;
+    const fullPath = `${assetUrl}/assets${asset.src}`;
     const assetContent = buildAssetContent(asset, fullPath, commentContent, tagContent);
     document.getElementById("gallery").innerHTML += assetContent;
 }
