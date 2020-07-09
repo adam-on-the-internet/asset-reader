@@ -1,5 +1,80 @@
 [
   {
+    "src": "/backgrounds/mario-jungle.jpg",
+    "name": "Mario Jungle",
+    "tags": ["background", "video-game"]
+  },
+    {
+    "src": "/backgrounds/spooky-gate.jpg",
+    "name": "Spooky Gate",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/mario-volleyball.jpg",
+    "name": "Mario Volleyball",
+    "tags": ["background", "video-game"]
+  },
+  {
+    "src": "/backgrounds/yellow-house.jpg",
+    "name": "Yellow House",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/battle-kart.jpg",
+    "name": "Mario Kart Battle",
+    "tags": ["background", "video-game"]
+  },
+  {
+    "src": "/backgrounds/mario-in-trouble.jpg",
+    "name": "Mario in Trouble",
+    "tags": ["background", "video-game"]
+  },
+  {
+    "src": "/backgrounds/lightning-strikes.jpg",
+    "name": "Lightning Strikes",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/lake-escape.jpg",
+    "name": "Lake Escape",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/mario-galaxy.jpg",
+    "name": "Mario Galaxy",
+    "tags": ["background", "video-game"]
+  },
+  {
+    "src": "/backgrounds/gec.jpg",
+    "name": "Lizard",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/dark-link.jpg",
+    "name": "Dark Link Showdown",
+    "tags": ["background", "video-game"]
+  },
+  {
+    "src": "/backgrounds/mario-birthday.jpg",
+    "name": "Mario Birthday",
+    "tags": ["background", "video-game"]
+  },
+  {
+    "src": "/backgrounds/lava-castle.jpg",
+    "name": "Lava Castle",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/beach.jpg",
+    "name": "3d Beach",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/forest-temple.jpg",
+    "name": "Forest Temple",
+    "tags": ["background", "video-game"]
+  },
+  {
     "src": "/backgrounds/1.jpg",
     "name": "Paris Louvre",
     "tags": ["background", "travel"]
