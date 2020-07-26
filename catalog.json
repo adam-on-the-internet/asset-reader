@@ -1,5 +1,215 @@
 [
   {
+    "src": "/friends/open.gif",
+    "name": "Open 24 Hours",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/blink_bird.gif",
+    "name": "Blinking Bird",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/spacething.gif",
+    "name": "Space Thing",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/bookworm.gif",
+    "name": "Book Worm",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/climb.gif",
+    "name": "Climbing",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/globe.gif",
+    "name": "Spinning Globe",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/eyes.gif",
+    "name": "Glaring Eyes",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/forward.gif",
+    "name": "Forward Arrow",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/info.gif",
+    "name": "Information",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/venus.gif",
+    "name": "Venus Spinning",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/flunder.gif",
+    "name": "Thunder Friend",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/skull_looking.gif",
+    "name": "Skull Looking",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/happy_float.gif",
+    "name": "Happy Floating",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/itchy_scratchy.gif",
+    "name": "Itchy and Scratchy",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/suzy_blonde.gif",
+    "name": "Suzy Blonde",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/angry_mail.gif",
+    "name": "Angry Mail",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/inverted_cross.gif",
+    "name": "Inverted Cross",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/gremlin.gif",
+    "name": "Gremlin",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/kisses.gif",
+    "name": "Kisses",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/bullet_train.gif",
+    "name": "Bullet Train",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/newton_cradle.gif",
+    "name": "Newton's Cradle",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/dogdrinking.gif",
+    "name": "Dog Drinking",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/sailor-blast.gif",
+    "name": "Sailor Moon Blast",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/felix_pace.gif",
+    "name": "Felix Pacing",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/monkey_point.gif",
+    "name": "Monkey Point",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/looking_around.gif",
+    "name": "Looking Around",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/skull_hammock.gif",
+    "name": "Skull Hammock",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/tomato_spin.gif",
+    "name": "Tomato (spin)",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/garfield_moon.gif",
+    "name": "Garfield w/ Moon",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/email_spin.gif",
+    "name": "Email (spin)",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/bird_fly.gif",
+    "name": "Bird Flying",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/candle.gif",
+    "name": "Candle",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/cola_spy.gif",
+    "name": "Cola Spy",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/flower.gif",
+    "name": "Flower",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/email.gif",
+    "name": "Email",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/fuck_you.gif",
+    "name": "Fuck You",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/smoking.gif",
+    "name": "No Smoking",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/rosie.gif",
+    "name": "Rosie O Donnell",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/vcr.gif",
+    "name": "VCR",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/gay_ass.gif",
+    "name": "Gay Ass",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/witch-orb.gif",
+    "name": "Witch w/ Orb",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/proto-batter.png",
+    "name": "Proto Batter",
+    "tags": ["friend"]
+  },
+  {
     "src": "/backgrounds/mario-jungle.jpg",
     "name": "Mario Jungle",
     "tags": ["background", "video-game"]
