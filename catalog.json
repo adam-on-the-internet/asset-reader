@@ -1,5 +1,55 @@
 [
   {
+    "src": "/friends/tubes.jpg",
+    "name": "Tubes",
+    "tags": ["background"]
+  },
+  {
+    "src": "/friends/under-balloon.jpg",
+    "name": "Under the Balloon",
+    "tags": ["background"]
+  },
+  {
+    "src": "/friends/fire-organ.jpg",
+    "name": "Fire Organ",
+    "tags": ["background"]
+  },
+  {
+    "src": "/friends/rat-chef-gasp.jpg",
+    "name": "Rat Chef Gasp",
+    "tags": ["background"]
+  },
+  {
+    "src": "/friends/sandy.jpg",
+    "name": "Cozy Sandy",
+    "tags": ["background"]
+  },
+  {
+    "src": "/friends/smile-room.jpg",
+    "name": "Smile Room",
+    "tags": ["background"]
+  },
+  {
+    "src": "/friends/spongebob-zebra.jpg",
+    "name": "Spongebob Zebra",
+    "tags": ["background"]
+  },
+  {
+    "src": "/friends/squidward-shower.png",
+    "name": "Squidward Shower",
+    "tags": ["background"]
+  },
+  {
+    "src": "/friends/temple-low.jpg",
+    "name": "Temple Low Area",
+    "tags": ["background"]
+  },
+  {
+    "src": "/friends/truck-swim.jpg",
+    "name": "Truck Swim",
+    "tags": ["background"]
+  },
+  {
     "src": "/friends/parking-lot-fog.jpg",
     "name": "Parking Lot Fog",
     "tags": ["background"]
