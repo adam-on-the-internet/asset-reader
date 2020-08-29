@@ -1,5 +1,55 @@
 [
   {
+    "src": "/friends/parking-lot-fog.jpg",
+    "name": "Parking Lot Fog",
+    "tags": ["background"]
+  },
+  {
+    "src": "/friends/pillow-pets.jpg",
+    "name": "Pillow Pets",
+    "tags": ["background"]
+  },
+  {
+    "src": "/friends/pink-panther.jpg",
+    "name": "Pink Panther",
+    "tags": ["background"]
+  },
+  {
+    "src": "/friends/pizza-machine.jpg",
+    "name": "Mario's Pizza Machine",
+    "tags": ["background"]
+  },
+  {
+    "src": "/friends/propaganda.png",
+    "name": "Propaganda",
+    "tags": ["background"]
+  },
+  {
+    "src": "/friends/moon-and-mars.jpg",
+    "name": "Moon and Mars",
+    "tags": ["background"]
+  },
+  {
+    "src": "/friends/movie-theatre.jpg",
+    "name": "Movie Theatre",
+    "tags": ["background"]
+  },
+  {
+    "src": "/friends/muppet-love.jpg",
+    "name": "Muppet Love",
+    "tags": ["background"]
+  },
+  {
+    "src": "/friends/myst.jpg",
+    "name": "Myst",
+    "tags": ["background"]
+  },
+  {
+    "src": "/friends/open-window.jpg",
+    "name": "Open Window",
+    "tags": ["background"]
+  },
+  {
     "src": "/friends/join-fun.jpg",
     "name": "Join in the Fun",
     "tags": ["background"]
