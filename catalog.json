@@ -1,5 +1,55 @@
 [
   {
+    "src": "/friends/ernie-dream.jpg",
+    "name": "Ernie's Dream",
+    "tags": ["background"]
+  },
+  {
+    "src": "/friends/fancy-goose.jpg",
+    "name": "Fancy Goose",
+    "tags": ["background"]
+  },
+  {
+    "src": "/friends/ferret.png",
+    "name": "Ferret Ocean",
+    "tags": ["background"]
+  },
+  {
+    "src": "/friends/garfield-garage.png",
+    "name": "Garfield Garage",
+    "tags": ["background"]
+  },
+  {
+    "src": "/friends/harvest-cow.jpg",
+    "name": "Harvest Cow",
+    "tags": ["background"]
+  },
+  {
+    "src": "/friends/chao-garden.png",
+    "name": "Chao Garden",
+    "tags": ["background"]
+  },
+  {
+    "src": "/friends/chao-hell.png",
+    "name": "Chao Hell",
+    "tags": ["background"]
+  },
+  {
+    "src": "/friends/chidi.jpg",
+    "name": "Chidi Quote",
+    "tags": ["background"]
+  },
+  {
+    "src": "/friends/donkey-kong.jpg",
+    "name": "Donkey Kong Level 1",
+    "tags": ["background"]
+  },
+  {
+    "src": "/friends/empty-mall.jpg",
+    "name": "Empty Mall",
+    "tags": ["background"]
+  },
+  {
     "src": "/friends/coast-castle.jpg",
     "name": "Coast Castle",
     "tags": ["background"]
