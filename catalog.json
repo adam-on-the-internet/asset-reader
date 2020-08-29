@@ -1,5 +1,55 @@
 [
   {
+    "src": "/friends/join-fun.jpg",
+    "name": "Join in the Fun",
+    "tags": ["background"]
+  },
+  {
+    "src": "/friends/join-sponge.png",
+    "name": "Join Spongebob",
+    "tags": ["background"]
+  },
+  {
+    "src": "/friends/lone-minion.jpg",
+    "name": "Lone Minion",
+    "tags": ["background"]
+  },
+  {
+    "src": "/friends/marge-neat.png",
+    "name": "I Just Think They're Neat",
+    "tags": ["background"]
+  },
+  {
+    "src": "/friends/mario-drives.jpg",
+    "name": "Mario Drives",
+    "tags": ["background"]
+  },
+  {
+    "src": "/friends/mario-home.jpg",
+    "name": "Mario's NYC Home",
+    "tags": ["background"]
+  },
+  {
+    "src": "/friends/mario-oink.png",
+    "name": "Paper Mario Oink",
+    "tags": ["background"]
+  },
+  {
+    "src": "/friends/mcd.jpg",
+    "name": "McDonald's Crew",
+    "tags": ["background"]
+  },
+  {
+    "src": "/friends/midnight.jpg",
+    "name": "Midnight",
+    "tags": ["background"]
+  },
+  {
+    "src": "/friends/horse-beach.jpg",
+    "name": "Horse Beach",
+    "tags": ["background"]
+  },
+  {
     "src": "/friends/ernie-dream.jpg",
     "name": "Ernie's Dream",
     "tags": ["background"]
