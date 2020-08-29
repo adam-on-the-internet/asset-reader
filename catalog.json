@@ -1,5 +1,25 @@
 [
   {
+    "src": "/friends/yogi.jpg",
+    "name": "Yogi Bear",
+    "tags": ["background"]
+  },
+  {
+    "src": "/friends/yoshi-friend.jpg",
+    "name": "Yoshi, a friend",
+    "tags": ["background"]
+  },
+  {
+    "src": "/friends/wario-castle.png",
+    "name": "Wario Kart Castle",
+    "tags": ["background"]
+  },
+  {
+    "src": "/friends/windows-hill.jpg",
+    "name": "Windows Hill",
+    "tags": ["background"]
+  },
+  {
     "src": "/friends/tubes.jpg",
     "name": "Tubes",
     "tags": ["background"]
