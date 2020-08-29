@@ -1,5 +1,30 @@
 [
   {
+    "src": "/friends/bob.png",
+    "name": "Bob",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/climber.png",
+    "name": "Climber",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/cool-toad.png",
+    "name": "Cool Toad",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/spike-goomba.png",
+    "name": "Spike Goomba",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/constitution.gif",
+    "name": "Constitution",
+    "tags": ["friend"]
+  },
+  {
     "src": "/friends/open.gif",
     "name": "Open 24 Hours",
     "tags": ["friend"]
