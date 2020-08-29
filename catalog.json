@@ -1,5 +1,55 @@
 [
   {
+    "src": "/friends/coast-castle.jpg",
+    "name": "Coast Castle",
+    "tags": ["background"]
+  },
+  {
+    "src": "/friends/dashcon.jpg",
+    "name": "Dashcon",
+    "tags": ["background"]
+  },
+  {
+    "src": "/friends/diddy-over.png",
+    "name": "Diddy Kong Game Over",
+    "tags": ["background"]
+  },
+  {
+    "src": "/friends/donnie.jpg",
+    "name": "Donnie Darko",
+    "tags": ["background"]
+  },
+  {
+    "src": "/friends/doof.png",
+    "name": "Doofenschmirtz",
+    "tags": ["background"]
+  },
+  {
+    "src": "/friends/alien-giants.jpg",
+    "name": "Alien Giants",
+    "tags": ["background"]
+  },
+  {
+    "src": "/friends/andre.jpg",
+    "name": "Andre",
+    "tags": ["background"]
+  },
+  {
+    "src": "/friends/big-brother.jpg",
+    "name": "Big Brother",
+    "tags": ["background"]
+  },
+  {
+    "src": "/friends/bowser-kiss.jpg",
+    "name": "Bowser Kiss",
+    "tags": ["background"]
+  },
+  {
+    "src": "/friends/blur.jpg",
+    "name": "Blur",
+    "tags": ["background"]
+  },
+  {
     "src": "/friends/bob.png",
     "name": "Bob",
     "tags": ["friend"]
