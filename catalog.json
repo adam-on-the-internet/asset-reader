@@ -285,6 +285,61 @@
     "tags": ["friend"]
   },
   {
+    "src": "/friends/animal-catch.gif",
+    "name": "Animal Catch",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/breakdance.gif",
+    "name": "Breakdance",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/chessboard.gif",
+    "name": "Chessboard",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/barney.png",
+    "name": "Barney",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/empty-goron.png",
+    "name": "Empty Goron",
+    "tags": ["friend", "video-game"]
+  },
+  {
+    "src": "/friends/empty-zora.png",
+    "name": "Empty Zora",
+    "tags": ["friend", "video-game"]
+  },
+  {
+    "src": "/friends/empty-deku.png",
+    "name": "Empty Deku",
+    "tags": ["friend", "video-game"]
+  },
+  {
+    "src": "/friends/empty-link.png",
+    "name": "Empty Link",
+    "tags": ["friend", "video-game"]
+  },
+  {
+    "src": "/friends/edgy-frog.png",
+    "name": "Edgy Frog",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/blue-penguin.png",
+    "name": "Blue Penguin",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/madagascar-penguin.png",
+    "name": "Madagascar Penguin",
+    "tags": ["friend"]
+  },
+  {
     "src": "/friends/spike-goomba.png",
     "name": "Spike Goomba",
     "tags": ["friend"]
@@ -503,6 +558,61 @@
     "src": "/friends/proto-batter.png",
     "name": "Proto Batter",
     "tags": ["friend"]
+  },
+  {
+    "src": "/backgrounds/cheap-arcade.png",
+    "name": "Cheap Arcade",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/homer-thinking.jpg",
+    "name": "Homer Thinking",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/empty-sears.jpg",
+    "name": "Empty Sears",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/city-scape.jpg",
+    "name": "City Scape",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/empty-mall-2.jpg",
+    "name": "Empty Mall 2",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/overlooking-destruction.jpg",
+    "name": "Overlooking Destruction",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/swamp-painting.jpg",
+    "name": "Swamp Painting",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/pikachu-balloon.jpg",
+    "name": "Pikachu Balloon",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/black-lodge.jpg",
+    "name": "Black Lodge",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/bones-in-desert.jpg",
+    "name": "Bones in Desert",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/harvest-moon-cow.jpg",
+    "name": "Harvest Moon Cow",
+    "tags": ["background", "video-game"]
   },
   {
     "src": "/backgrounds/mario-jungle.jpg",
