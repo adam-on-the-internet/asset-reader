@@ -10,6 +10,66 @@
     "tags": ["background"]
   },
   {
+    "src": "/backgrounds/doom-coaster.jpg",
+    "name": "Doom Coaster",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/console-error.jpg",
+    "name": "Console Error",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/simpsons-crypt.jpg",
+    "name": "Simpsons Crypt",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/ps2-load.png",
+    "name": "PS2 Load",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/derulo-stairs.jpg",
+    "name": "Derulo Stairs",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/barbie-stage.png",
+    "name": "Barbie Stage",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/anime-girls.jpg",
+    "name": "Anime Girls",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/mouse-cam.png",
+    "name": "Mouse Cam",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/fake-woods.png",
+    "name": "Fake Woods",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/gumby-piano.png",
+    "name": "Gumby Piano",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/kirby-careful.png",
+    "name": "Kirby is Careful",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/mario-party-run.png",
+    "name": "Mario Party Run",
+    "tags": ["background"]
+  },
+  {
     "src": "/backgrounds/wario-castle.png",
     "name": "Wario Kart Castle",
     "tags": ["background"]
@@ -2075,6 +2135,61 @@
     "src": "/friends/flying-money.gif",
     "tags": ["friend"],
     "name": "Flying Money"
+  },
+  {
+    "src": "/friends/bone-dance.gif",
+    "name": "Bone Dance",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/bowser-kart.png",
+    "name": "Bowser Kart",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/raymond.png",
+    "name": "AC Raymond",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/polar-cool.png",
+    "name": "Cool Polar Bear",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/tall-penguin.png",
+    "name": "Tall Penguin",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/zelda-wolf.png",
+    "name": "Zelda Snow Wolf",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/fe-girl.png",
+    "name": "Some Fire Emblem Girl",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/blue-jinjo.png",
+    "name": "Blue Jinjo",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/purple-terry.png",
+    "name": "Purple Ptreodactyl",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/ekans.png",
+    "name": "Ekans",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/red-face.gif",
+    "name": "Red Face",
+    "tags": ["friend"]
   },
   {
     "src": "/friends/frog.png",
