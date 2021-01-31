@@ -70,6 +70,76 @@
     "tags": ["background"]
   },
   {
+    "src": "/backgrounds/pool-closed.png",
+    "name": "Pool Closed",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/trek-1.jpg",
+    "name": "Star Trek 1",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/trek-2.jpg",
+    "name": "Star Trek 2",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/windows-cave.jpg",
+    "name": "Windows Cave",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/baja-cat.jpg",
+    "name": "Baja Cat",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/hungry-cat.jpg",
+    "name": "Hungry Cat",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/bright-waterpark.jpg",
+    "name": "Bright Waterpark",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/archive.jpg",
+    "name": "Archive",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/godzilla-fight.png",
+    "name": "Godzilla Fight",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/simpsons-laugh.jpg",
+    "name": "Simpsons Laugh",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/the-ride-never-stops.jpg",
+    "name": "The Ride Never Stops",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/cheesy-christmas.jpg",
+    "name": "Cheesy Christmas",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/wario-war.jpg",
+    "name": "Wario War",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/gumby-eyes.png",
+    "name": "Gumby Eyes",
+    "tags": ["background"]
+  },
+  {
     "src": "/backgrounds/wario-castle.png",
     "name": "Wario Kart Castle",
     "tags": ["background"]
@@ -497,6 +567,76 @@
   {
     "src": "/friends/gremlin.gif",
     "name": "Gremlin",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/orange-sunfish.png",
+    "name": "Orange Sunfish",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/smol-frog.png",
+    "name": "Smol Frog",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/t-poly-peach.png",
+    "name": "T Poly Peach",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/evilcount.gif",
+    "name": "Evil Count",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/smol-kangaroo.png",
+    "name": "Smol Kangaroo",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/bowser-jr-bomb.png",
+    "name": "Bowser Jr Bomb",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/weird-fish.png",
+    "name": "Weird Fish",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/ac-flurry.png",
+    "name": "Flurry",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/simple-bird.png",
+    "name": "Simple Bird",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/sharp-cat.png",
+    "name": "Sharp Cat",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/sharp-chick.png",
+    "name": "Sharp Chick",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/snow-toad.png",
+    "name": "Snow Toad",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/sea-creature.png",
+    "name": "Sea Creature",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/sharp-blue-bird.png",
+    "name": "Sharp Blue Bird",
     "tags": ["friend"]
   },
   {
