@@ -640,6 +640,151 @@
     "tags": ["friend"]
   },
   {
+    "src": "/friends/frog-detective.png",
+    "name": "Frog Detective",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/mario-galaxy-dragon.png",
+    "name": "Mario Galaxy Dragon",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/mx-potato-head.png",
+    "name": "Mx Potato Head",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/mario-mouser.png",
+    "name": "Mario Mouser",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/stuffed-animal-ox.gif",
+    "name": "Stuffed Animal Ox",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/running.gif",
+    "name": "Running Running",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/epona-still.png",
+    "name": "Epona",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/karin.gif",
+    "name": "Karin Doom",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/computer-mouse.png",
+    "name": "Computer Mouse",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/blocky-dog.png",
+    "name": "Blocky Dog",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/paper-koopa-sports.png",
+    "name": "Paper Koopa Sports",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/majora-moon-mad.png",
+    "name": "Majora Moon",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/dk-barrel-monster.png",
+    "name": "DK Barrel Monster",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/rob-mario-kart.png",
+    "name": "Rob Mario Kart",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/mario-spiky-throw.png",
+    "name": "Mario Spiky Throw",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/single-pringle.png",
+    "name": "Single Pringle",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/blocky-bowser.png",
+    "name": "Blocky Bowser",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/paper-bartender.png",
+    "name": "Paper Bartender",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/zelda-mimic.png",
+    "name": "Zelda Mimic",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/shooters-award.gif",
+    "name": "Shooters Award",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/frog-detective.png",
+    "name": "Frog Detective",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/creeping_skeleton.gif",
+    "name": "Creeping Skeleton",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/blue-toad.png",
+    "name": "Blue Toad",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/nosy-dude.png",
+    "name": "Nosy Dude",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/miitomo-ghost.png",
+    "name": "Miitomo Ghost",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/paper-koopa-guard.png",
+    "name": "Paper Koopa Guard",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/signing.gif",
+    "name": "Signing",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/nintendo-world-guy.png",
+    "name": "Nintendo World Guy",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/penguin_somersalts.gif",
+    "name": "Penguin Somersalts",
+    "tags": ["friend"]
+  },
+  {
     "src": "/friends/kisses.gif",
     "name": "Kisses",
     "tags": ["friend"]

@@ -1,0 +1,5 @@
+//  {
+//    "src": "/friends/penguin_somersalts.gif",
+//    "name": "Penguin Somersalts",
+//    "tags": ["friend"]
+//  }
