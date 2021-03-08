@@ -3780,5 +3780,35 @@
     "src": "/backgrounds/pillars-sewer.jpg",
     "name": "Pillars Sewer",
     "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/simpsons-crowd-theatre.jpg",
+    "name": "Simpsons Crowd Theatre",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/fake-plane.jpg",
+    "name": "Fake Plane",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/reality-mess.jpg",
+    "name": "Reality Mess",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/weird-courtyard.jpg",
+    "name": "Weird Courtyard",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/hsm-1.jpg",
+    "name": "High School Musical pt 1",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/hsm-2.jpg",
+    "name": "High School Musical pt 2",
+    "tags": ["background"]
   }
 ]
