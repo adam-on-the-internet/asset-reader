@@ -3475,5 +3475,105 @@
     "src": "/various/future.jpg",
     "tags": ["future", "background"],
     "name": "Bright Future"
+  },
+  {
+    "src": "/backgrounds/goodnight-moon.jpg",
+    "name": "Goodnight Moon",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/virtual-home-d.jpg",
+    "name": "Virtual Home D",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/virtual-home-c.png",
+    "name": "Virtual Home C",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/virtual-home-b.png",
+    "name": "Virtual Home B",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/virtual-home-a.png",
+    "name": "Virtual Home A",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/neopets-menu.jpg",
+    "name": "",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/cinderblock-ladder.jpg",
+    "name": "Cinderblock Ladder",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/computers-cubicles.jpg",
+    "name": "Comptuers Cubicles",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/blurry-britney.jpg",
+    "name": "Blurry Britney",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/chicken-hello.jpg",
+    "name": "Chicken Hello",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/marge-door.jpg",
+    "name": "Marge Door",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/colorful-windows.jpg",
+    "name": "Colorful Windows",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/data-cute.jpg",
+    "name": "Data Cute",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/the-cube-maker.jpg",
+    "name": "The Cube Maker",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/homer-booing.png",
+    "name": "Homer Booing",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/mario-party-boom.png",
+    "name": "Mario Party Boom",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/warios-borger",
+    "name": "Wario's Burger",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/candace-point.png",
+    "name": "Candace Point",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/care-bear-stare.jpg",
+    "name": "Care Bear Stare",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/shrek-menu.jpg",
+    "name": "Shrek Menu",
+    "tags": ["background"]
   }
 ]

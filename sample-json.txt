@@ -1,5 +1,11 @@
-//  {
-//    "src": "/friends/penguin_somersalts.gif",
-//    "name": "Penguin Somersalts",
-//    "tags": ["friend"]
-//  }
+  {
+    "src": "/friends/",
+    "name": "",
+    "tags": ["friend"]
+  },
+
+  {
+    "src": "/backgrounds/",
+    "name": "",
+    "tags": ["background"]
+  },
