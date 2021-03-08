@@ -3615,5 +3615,115 @@
     "src": "/backgrounds/neko-atsume-room.jpg",
     "name": "Neko Atsume Room",
     "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/kirby-friends.png",
+    "name": "Kiby with Friends",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/snowy-parking-lot.jpg",
+    "name": "Snowy Parking Lot",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/mario-party-start.jpg",
+    "name": "Mario Party Start",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/single-table-hotel.jpg",
+    "name": "Single Table Hotel",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/heart-windows.jpg",
+    "name": "Heart Windows",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/colorful-fantasy-field.jpg",
+    "name": "Colorful Fantasy Field",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/kate-bush-croc.jpg",
+    "name": "Kate Bush Croc",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/simpsons-coaster.jpg",
+    "name": "Simpsons Coaster",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/sunny-coast.png",
+    "name": "Sunny Coast",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/wilderness-war.jpg",
+    "name": "Wilderness War",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/gumby-car.png",
+    "name": "Gumby Car",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/warios-woods-toad.png",
+    "name": "Warios Woods Toad",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/gumby-hay.png",
+    "name": "Gumby Hay",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/mario-64-balloons.jpg",
+    "name": "Mario 64 Balloons",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/jump-scare-commercial.jpg",
+    "name": "Jump Scare Commercial",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/internet-everywhere.png",
+    "name": "Internet Everywhere",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/marianne.jpg",
+    "name": "Marianne",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/yoshi-and-wario.png",
+    "name": "Yoshi and Wario",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/mario-64-lava.png",
+    "name": "Mario 64 Lava",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/mario-64-underwater.jpg",
+    "name": "Mario 64 Underwater",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/swinging-timer.jpg",
+    "name": "Swinging Timer",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/hypnotize.jpg",
+    "name": "Hypnotize",
+    "tags": ["background"]
   }
 ]
