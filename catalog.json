@@ -3725,5 +3725,60 @@
     "src": "/backgrounds/hypnotize.jpg",
     "name": "Hypnotize",
     "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/gumby-worried-band.png",
+    "name": "Gumby Worried Band",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/planet-of-apes-beach.jpg",
+    "name": "Planet of the Apes Beach",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/garfield-dreams.png",
+    "name": "Garfield Dreams",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/mitochondria.jpg",
+    "name": "Mitochondria",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/screaming-cowboy.jpg",
+    "name": "Screaming Cowboy",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/gumby-city.png",
+    "name": "Gumby City",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/wario-clown-boss.png",
+    "name": "Wario Clown Boss",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/gumby-dino.png",
+    "name": "Gumby Dino",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/roseanne-witch.jpg",
+    "name": "Roseanne Witch",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/void-station.jpg",
+    "name": "Void Station",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/pillars-sewer.jpg",
+    "name": "Pillars Sewer",
+    "tags": ["background"]
   }
 ]
