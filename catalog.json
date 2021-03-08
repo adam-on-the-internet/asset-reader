@@ -3575,5 +3575,45 @@
     "src": "/backgrounds/shrek-menu.jpg",
     "name": "Shrek Menu",
     "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/vintage-cafeteria.jpg",
+    "name": "Vintage Cafeteria",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/snowy-dark-road.jpg",
+    "name": "Snowy Dark Road",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/cave-jobs.jpg",
+    "name": "Cave Jobs",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/landmark-map.jpg",
+    "name": "Landmark Maps",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/doom-halls.jpg",
+    "name": "Doom Halls",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/snowy-foggy-dock.jpg",
+    "name": "Snowy Foggy Dock",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/mario-new-background.png",
+    "name": "Mario New Background",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/neko-atsume-room.jpg",
+    "name": "Neko Atsume Room",
+    "tags": ["background"]
   }
 ]
