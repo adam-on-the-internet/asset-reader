@@ -3960,5 +3960,95 @@
     "src": "/backgrounds/avoid-lava-hole.jpg",
     "name": "Avoid Lava Hole",
     "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/microsoft-brick.jpg",
+    "name": "Microsoft Brick",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/frog_fight.png",
+    "name": "Frog Fight",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/floating-islands.png",
+    "name": "Floating Islands",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/sesame-cave.jpg",
+    "name": "Sesame Cave",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/some-dog.png",
+    "name": "Some Dog",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/blurred-bridge.png",
+    "name": "Blurred Bridge",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/medieval-town.jpg",
+    "name": "Medieval Town",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/sesame-street-live.jpg",
+    "name": "Sesame Street Live",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/minecraft-woods.jpg",
+    "name": "Minecraft Woods",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/zales.jpg",
+    "name": "Zales",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/dark-hyrule.jpg",
+    "name": "Dark Hyrule",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/halo-reach.jpg",
+    "name": "Halo Reach",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/gumby-alien.jpg",
+    "name": "Gumby Alien",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/welcome-elves.jpg",
+    "name": "Welcome Elves",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/crooked-garfield.png",
+    "name": "Crooked Garfield",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/mario-everyone-win.png",
+    "name": "Mario Everyone Win",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/gumby-peek.jpg",
+    "name": "Gumby Peek",
+    "tags": ["background"]
+  },
+  {
+    "src": "/backgrounds/gumby-rocket.png",
+    "name": "Gumby Rocket",
+    "tags": ["background"]
   }
 ]
