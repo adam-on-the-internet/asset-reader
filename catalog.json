@@ -2537,6 +2537,156 @@
     "name": "Mr Krabs"
   },
   {
+    "src": "/friends/snake-thing.png",
+    "name": "Snake Thing",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/crypt-rat.png",
+    "name": "Crypt Rat",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/big-rat.png",
+    "name": "Big Rat",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/worm_apple_car.jpg",
+    "name": "Worm Apple Car",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/ff_frog.png",
+    "name": "Final Fantasy Frog",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/trek-woosh.jpg",
+    "name": "Trek Woosh",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/cathy-advocate.jpg",
+    "name": "Cathy Advocate",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/woody-hand.jpg",
+    "name": "Woody Hand",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/dark-pool.jpg",
+    "name": "Dark Pool",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/two-paths.jpg",
+    "name": "Two Paths",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/dr-weird.jpg",
+    "name": "Dr Weird",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/mcdonalds-board.jpg",
+    "name": "McDonalds Board",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/angry-cat.jpg",
+    "name": "Angry Cat",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/mysims-cat.png",
+    "name": "MySims Cat",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/helicopter-squidward.jpg",
+    "name": "Helicopter Squidward",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/blue-necklace.jpg",
+    "name": "Blue Necklace",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/email-face.gif",
+    "name": "Email Face",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/rabbit-mario64.png",
+    "name": "Rabbit Mario 64",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/grand-star.png",
+    "name": "Grand Star",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/bayonetta-cats.png",
+    "name": "Bayonetta Cats",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/crash-goat.png",
+    "name": "Crash Goat",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/weird-jar-jar.png",
+    "name": "Weird Jar Jar",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/sonic-gorilla.png",
+    "name": "Sonic Gorilla",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/dongle.png",
+    "name": "Dongle",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/bulbmin.png",
+    "name": "Bulbmin",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/mario-64-eel.png",
+    "name": "Mario 64 Eel",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/smol-dog.png",
+    "name": "Smol Dog",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/battling-warrior.gif",
+    "name": "Battling Warrior",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/blue-angel.gif",
+    "name": "Blue Angel",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/waluigi-bus-driver.png",
+    "name": "Waluigi Bus Driver",
+    "tags": ["friend"]
+  },
+  {
     "src": "/various/christmas-movie.jpg",
     "tags": ["background"],
     "name": "Christmas Movie"
