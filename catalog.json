@@ -2687,6 +2687,21 @@
     "tags": ["friend"]
   },
   {
+    "src": "/friends/kaiba.png",
+    "name": "Kaiba",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/podracer-alien.png",
+    "name": "Podracer Alien",
+    "tags": ["friend"]
+  },
+  {
+    "src": "/friends/evil_book.png",
+    "name": "Evil Book",
+    "tags": ["friend"]
+  },
+  {
     "src": "/various/christmas-movie.jpg",
     "tags": ["background"],
     "name": "Christmas Movie"
